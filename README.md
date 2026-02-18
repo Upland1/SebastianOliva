@@ -12,6 +12,3 @@ I'm into projects that mix software and hardware — from building webpages and 
 
     
 ---
-<div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Upland1&show_icons=true&locale=en&theme=github_dark&show=reviews,prs_merged_percentage&include_all_commits=false&hide_border=true&rank_icon=default" alt="Upland1" />
-</div>
